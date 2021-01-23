@@ -91,6 +91,10 @@ main {
   padding: 0.1rem 0.5rem;
   align-items: center;
 }
+.link :hover {
+  color: rgb(1, 7, 15);
+  cursor: pointer;
+}
 .link h3 {
   padding: 0rem 1rem;
 }
@@ -135,16 +139,18 @@ main {
 .game__status input {
   background: linear-gradient(
     to right bottom,
-    rgba(255, 255, 255, 0.7),
-    rgba(255, 255, 255, 0.3)
+    rgba(255, 255, 255, 0.8),
+    rgba(255, 255, 255, 0.5)
   );
   border: none;
+  outline: none;
+  padding-left: 1rem;
   border-radius: 2rem;
   width: 80%;
 }
 
 .game__status input::placeholder {
-  color: rgba(15, 174, 248, 0.2);
+  color: rgba(15, 174, 248, 0.6);
   text-align: center;
 }
 
