@@ -85,6 +85,12 @@ main {
   border-radius: 2rem;
 }
 
+.user__avatar {
+  width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+}
+
 .link {
   display: flex;
   margin: 2rem 0rem;
