@@ -1,0 +1,19 @@
+{
+  "name": "glass-design-web",
+  "version": "1.0.0",
+  "description": "A website made with css and html with glass design",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaquibSyed/glass_website.git"
+  },
+  "author": "Aaquib Syed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaquibSyed/glass_website/issues"
+  },
+  "homepage": "https://github.com/AaquibSyed/glass_website#readme"
+}
